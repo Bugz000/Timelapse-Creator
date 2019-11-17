@@ -36,7 +36,7 @@
 
 Reach out to me at;
 
-- Website at <a href="bugz000.co.uk" target="_blank">`Autohotkey.com`</a>
+- Website at <a href="bugz000.co.uk" target="_blank">`Bugz000.co.uk`</a>
 - Forum post at <a href="https://www.autohotkey.com/boards/viewtopic.php?f=6&t=69856" target="_blank">`Autohotkey.com`</a>
 - Facebook at <a href="https://www.facebook.com/" target="_blank">`Facebook`</a>
 - IRC at <a href="https://kiwiirc.com/nextclient/irc.freenode.net/#ahk" target="_blank">`#AHK`</a>
