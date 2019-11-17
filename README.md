@@ -5,7 +5,7 @@
 > Converts image files to a video
 
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Features](#features)
