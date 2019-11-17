@@ -41,7 +41,7 @@ Reach out to me at;
 - IRC at <a href="www.freenode.net" target="_blank">`#AHK`</a>
 ---
 
-##About me
+## About me
 
 father to my son, Hunter, and with my beautiful wife and fantastic mother, Kaylin, living in the UK, avid hobbyist!
 
