@@ -77,11 +77,11 @@
 
 [root]<br/>&nbsp;&nbsp;&nbsp; => LICENSE.md- 1kb<br/>&nbsp;&nbsp;&nbsp; => Readme.MD- 0kb<br/>&nbsp;&nbsp;&nbsp;[\Release]<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Release\Timelapser.ahk- 9kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\img]<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => img\refresh.png- 0kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => img\select.png- 0kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => img\start.png- 1kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => img\stop.png- 1kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[\Lib]<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Lib\Cli.ahk- 2kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Lib\ffmpeg.exe- 63356kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Lib\ST_PrintArr.ahk- 0kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Lib\wingetall.ahk- 1kb<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; => Lib\WTSEP.ahk- 0kb<br/>
  ---
- -name: Bug report
- -about: Create a report to help us improve
- -title: ''
- -labels: ''
- -assignees: ''
+ - name: Bug report
+ - about: Create a report to help us improve
+ - title: ''
+ - labels: ''
+ - assignees: ''
  
  ---
  
