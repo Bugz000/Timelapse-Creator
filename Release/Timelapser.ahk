@@ -204,31 +204,31 @@ prgbr(p)
 	{
 		if (p>75)
 		{
-			GuiControl,move, Progressbar1,% "X" 0 										"Y" -5 											"w" 384 							"h" 10 	
-			GuiControl,move, Progressbar2,% "X" 379									"Y" -3 											"w" 10 							"h" 233 
-			GuiControl,move, Progressbar3,% "X" 0										"Y" 228 											"w" 384 							"h" 10 	
-			GuiControl,move, Progressbar4,% "X" -5 										"Y" 230-pcof(((p-75) * 4),230)		"w" 10 							"h" 233 
-		}                                                                      								                                						             
+			GuiControl,move, Progressbar1,% "X" 0 "Y" -5 "w" 384 "h" 10 	
+			GuiControl,move, Progressbar2,% "X" 379 "Y" -3 "w" 10 "h" 233 
+			GuiControl,move, Progressbar3,% "X" 0 "Y" 228 "w" 384 "h" 10 	
+			GuiControl,move, Progressbar4,% "X" -5 "Y" 230-pcof(((p-75) * 4),230) "w" 10 "h" 233 
+		}                                                                      								                                							             
 	else if (p>50)                                                      								                                						             
 		{                                                                      								                                						             
-			GuiControl,move, Progressbar1,% "X" 0 										"Y" -5 										"w" 384 							"h" 10 	
-			GuiControl,move, Progressbar2,% "X" 379									"Y" -3 										"w" 10 							"h" 233 
-			GuiControl,move, Progressbar3,% "X" 379-pcof(((p-50) * 4),379)	"Y" 228 										"w" 384 							"h" 10
-			GuiControl,move, Progressbar4,% "X" -5 										"Y" -3										"w" 0 							"h" 0
+			GuiControl,move, Progressbar1,% "X" 0 "Y" -5 "w" 384 "h" 10 	
+			GuiControl,move, Progressbar2,% "X" 379 "Y" -3 "w" 10 "h" 233 
+			GuiControl,move, Progressbar3,% "X" 379-pcof(((p-50) * 4),379) "Y" 228 "w" 384 "h" 10
+			GuiControl,move, Progressbar4,% "X" -5 "Y" -3 "w" 0 "h" 0
 		}                                                                      								                								                						             
 	else if (p>25)                                                      								                								                						             
 		{                                                                      								                								                						             
-			GuiControl,move, Progressbar1,% "X" 0 										"Y" -5 										"w" 384 								"h" 10
-			GuiControl,move, Progressbar2,% "X" 379									"Y" -233+pcof(((p-25) * 4),233)	"w" 10 								"h" 233
-			GuiControl,move, Progressbar3,% "X" 0										"Y" 228 										"w" 0 								"h" 0 
-			GuiControl,move, Progressbar4,% "X" -5 										"Y" -3										"w" 0 								"h" 0
+			GuiControl,move, Progressbar1,% "X" 0 "Y" -5 "w" 384 "h" 10
+			GuiControl,move, Progressbar2,% "X" 379 "Y" -233+pcof(((p-25) * 4),233) "w" 10 "h" 233
+			GuiControl,move, Progressbar3,% "X" 0 "Y" 228 "w" 0 "h" 0 
+			GuiControl,move, Progressbar4,% "X" -5 "Y" -3 "w" 0 "h" 0
 		}                                                                      								                								                						             
 	else                                                                     								                								                						             
 		{                                                                      								                								                						             
-			GuiControl,move, Progressbar1,% "X" -384+pcof((p * 4),384)		"Y" -5 										"w" 384								"h" 10
-			GuiControl,move, Progressbar2,% "X" 379									"Y" -3 										"w" 0 								"h" 0
-			GuiControl,move, Progressbar3,% "X" 0										"Y" 228 										"w" 0 								"h" 0
-			GuiControl,move, Progressbar4,% "X" -5 										"Y" -3										"w" 0 								"h" 0 
+			GuiControl,move, Progressbar1,% "X" -384+pcof((p * 4),384) "Y" -5 "w" 384 "h" 10
+			GuiControl,move, Progressbar2,% "X" 379 "Y" -3 "w" 0 "h" 0
+			GuiControl,move, Progressbar3,% "X" 0 "Y" 228 "w" 0 "h" 0
+			GuiControl,move, Progressbar4,% "X" -5 "Y" -3 "w" 0 "h" 0 
 		}							
 	}
 pcof(in, max)
