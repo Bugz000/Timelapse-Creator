@@ -48,7 +48,7 @@
 
  ## About me
 
- father to my son, Hunter, and with my beautiful wife and fantastic mother, Kaylin, living in the UK, avid hobbyist!
+ father to my son, Hunter, living in the UK, avid hobbyist!
 
  enjoying all aspects of life, photography, archery, motorcycling, aquariums, astronomy, and ofcourse, computers!
 
@@ -74,7 +74,7 @@
  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
  - **[MIT license](http://opensource.org/licenses/mit-license.php)**
- - Copyright 2019 © <a href="http://www.Bugz000.co.uk" target="_blank">Bugz000</a>.
+ - Copyright 2019 Â© <a href="http://www.Bugz000.co.uk" target="_blank">Bugz000</a>.
 
 [Back to top](#Contents)
  ---
